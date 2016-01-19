@@ -23,18 +23,18 @@ const styles = StyleSheet.create({
     color: Colors.black,
     fontSize: 75,
     margin: 10,
-    fontFamily: 'rock',
+    fontFamily: 'bree',
   },
   label: {
     color: Colors.black,
     fontSize: 20,
-    fontFamily: 'rock',
+    fontFamily: 'bree',
   },
   help: {
     color: Colors.secondary,
     fontSize: 25,
     margin: 10,
-    fontFamily: 'rock',
+    fontFamily: 'bree',
   },
   group: {
     flexDirection: "row",
